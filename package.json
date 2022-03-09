@@ -1,0 +1,20 @@
+{
+  "name": "js-fundamentals-overview",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ""
+  },
+  "scripts": {
+    "start": "npx vite"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "prettier": {
+    "trailingComma": "all"
+  },
+  "keywords": []
+}
